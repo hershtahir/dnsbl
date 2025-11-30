@@ -9,14 +9,9 @@
 0.0.0.0 openx.com
 0.0.0.0 ibillboard.com
 0.0.0.0 doubleclick.net
-0.0.0.0 googlesyndication.com
-0.0.0.0 googleadservices.com
-0.0.0.0 googletagservices.com
-0.0.0.0 googletagmanager.com
 0.0.0.0 gemius.pl
 0.0.0.0 gemius.com
 0.0.0.0 hit.gemius.pl
-0.0.0.0 adservice.google.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 taboola.com
